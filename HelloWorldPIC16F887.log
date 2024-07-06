@@ -1,12 +1,12 @@
 0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -GC -DL -O11001114 -fo8 -N"C:\Users\erick\Documents\HelloWorldPIC16F887\HelloWorldPIC16F887\HelloWorldPIC16F887.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\erick\Documents\HelloWorldPIC16F887\HelloWorldPIC16F887\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\erick\Documents\HelloWorldPIC16F887\HelloWorldPIC16F887\" "HelloWorldPIC16F887.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
 hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
 diagnostics: 0	122	Compilation Started	HelloWorldPIC16F887.c
-diagnostics: 3	123	Compiled Successfully	HelloWorldPIC16F887.c
-diagnostics: 0	127	All files Compiled in 172 ms	 
+diagnostics: 16	123	Compiled Successfully	HelloWorldPIC16F887.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
 hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
-hint: 0	1144	Used ROM (program words): 1 (1%)  Free ROM (program words): 8191 (99%)	Used ROM (program words): 1 (1%)  Free ROM (program words): 8191 (99%)
+hint: 0	1144	Used ROM (program words): 36 (1%)  Free ROM (program words): 8156 (99%)	Used ROM (program words): 36 (1%)  Free ROM (program words): 8156 (99%)
 diagnostics: 0	125	Project Linked Successfully	HelloWorldPIC16F887.mcppi
 hint: 0	1004	COFF file successfully generated	COFF file successfully generated
-diagnostics: 0	128	Linked in 328 ms	 
-diagnostics: 0	129	Project 'HelloWorldPIC16F887.mcppi' completed: 640 ms	 
-diagnostics: 0	103	Finished successfully: 06 jul. 2024, 16:36:20	HelloWorldPIC16F887.mcppi
+diagnostics: 0	128	Linked in 125 ms	 
+diagnostics: 0	129	Project 'HelloWorldPIC16F887.mcppi' completed: 218 ms	 
+diagnostics: 0	103	Finished successfully: 06 jul. 2024, 16:56:11	HelloWorldPIC16F887.mcppi
