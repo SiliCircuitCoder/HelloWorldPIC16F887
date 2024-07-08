@@ -26,6 +26,4 @@ Just download the project and upload it to your microcontroller.
 
 ## Video Demonstration:
 ---
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/26YrhMVRGPY" frameborder="0" allowfullscreen></iframe>
-</p>
+[![Watch the video](https://img.youtube.com/vi/26YrhMVRGPY/0.jpg)](https://www.youtube.com/watch?v=26YrhMVRGPY)
