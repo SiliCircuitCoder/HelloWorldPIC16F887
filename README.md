@@ -12,6 +12,7 @@ This is a Blink Project developed in MikroC for PIC16F887.
 ---
 In this repo, I have been working with Proteus Electric Simulator.
 ![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/f3582dc6-dda0-4764-b547-5942d07c7dea)
+
 ## Description and Context:
 ---
 This repository was created to start my career in embedded systems and to get started in Git/GitHub.
@@ -24,6 +25,6 @@ Just download the project and upload it to your microcontroller.
 ---
 <p align="center">
   <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/5370b1b9-759c-4a1a-b0b0-caa3d4046c00" alt="IMG_3455" width="250">
-  ![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/8af3b597-870a-43c3-9e52-1ba022e4afbe)
+  <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/7ee983cb-30be-458b-b476-079a7b8e1477" alt="IMG_3455" width="250">
 </p>
-Check out the video demonstration on YouTube: https://www.youtube.com/watch?v=26YrhMVRGPY
+Check out the video demonstration on [YouTube](https://www.youtube.com/watch?v=26YrhMVRGPY).
