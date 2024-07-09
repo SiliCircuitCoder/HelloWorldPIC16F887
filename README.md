@@ -24,6 +24,6 @@ Just download the project and upload it to your microcontroller.
 ---
 <p align="center">
   <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/5370b1b9-759c-4a1a-b0b0-caa3d4046c00" alt="IMG_3455" width="250">
-  <img src= ![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/7ee983cb-30be-458b-b476-079a7b8e1477)>
+  ![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/8af3b597-870a-43c3-9e52-1ba022e4afbe)
 </p>
 Check out the video demonstration on YouTube: https://www.youtube.com/watch?v=26YrhMVRGPY
