@@ -23,6 +23,7 @@ Just download the project and upload it to your microcontroller.
 
 ## Performance and Functionality:
 ---
-![IMG_3455](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/5370b1b9-759c-4a1a-b0b0-caa3d4046c00)
+<p align="center">
+  <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/5370b1b9-759c-4a1a-b0b0-caa3d4046c00" alt="IMG_3455" width="500">
+</p>
 Check out the video demonstration on [YouTube](https://www.youtube.com/watch?v=26YrhMVRGPY).
-
