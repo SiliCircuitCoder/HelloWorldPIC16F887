@@ -19,8 +19,10 @@ This repository was created to start my career in embedded systems and to get st
 
 ## User Guide:
 ---
-Just download the project and upload it to your microcontroller.
-
+Just download the project and upload it to your microcontroller, in this project, we use a Pickit3 for microcontroller programming.
+<p align="center">
+  <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/e9920916-2f1c-45d6-80ff-80dfafc6329e" alt="image" width="500">
+</p>
 ## Performance and Functionality:
 ---
 <p align="center">
