@@ -11,15 +11,16 @@ This is a Blink Project developed in MikroC for PIC16F887.
 ## Electric Simulator:
 ---
 In this repo, I have been working with Proteus Electric Simulator.
-![image]("https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/f3582dc6-dda0-4764-b547-5942d07c7dea") 
+![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/f3582dc6-dda0-4764-b547-5942d07c7dea)
+
 ## Description and Context:
 ---
 This repository was created to start my career in embedded systems and to get started in Git/GitHub.
 
 ## User Guide:
 ---
-Just download the project and upload it to your microcontroller, In this project, we use a Pickit3 for microcontroller programming.
-![image](https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/556d3452-a088-4b28-a75f-4b982ed97f47)
+Just download the project and upload it to your microcontroller.
+
 ## Performance and Functionality:
 ---
 <p align="center">
@@ -27,5 +28,4 @@ Just download the project and upload it to your microcontroller, In this project
   <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/7ee983cb-30be-458b-b476-079a7b8e1477" alt="IMG_3455" width="250">
   <img src="https://github.com/SiliCircuitCoder/HelloWorldPIC16F887/assets/174857123/49d4ae97-0fdf-416d-8da1-38cecf0126b6" alt="IMG_3455" width="250">
 </p>
-Check out the video demonstration on YouTube: https://www.youtube.com/watch?v=26YrhMVRGPY
-
+Check out the video demonstration on [YouTube](https://www.youtube.com/watch?v=26YrhMVRGPY).
